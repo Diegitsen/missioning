@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "17690157642",
+    "firebase_url": "https://missioning-dfd97.firebaseio.com",
+    "project_id": "missioning-dfd97",
+    "storage_bucket": "missioning-dfd97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17690157642:android:06f8ad274bc4a88a91fcb3",
+        "android_client_info": {
+          "package_name": "com.diegitsen.missioning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17690157642-odght2t93752635d2k5rffnk8ta12cah.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.diegitsen.missioning",
+            "certificate_hash": "e952de93f9d93f0e7ecbb0f5d90ff171dd8d5b2a"
+          }
+        },
+        {
+          "client_id": "17690157642-i88imbg1djnnncc1ba3onnq81ffoof23.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyH3-3p5FoPIG-R6KcGP8OTxg-HWrDHbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17690157642-i88imbg1djnnncc1ba3onnq81ffoof23.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
